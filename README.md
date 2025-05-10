@@ -4,7 +4,7 @@
 
 ## 🔍 About Me
 
-- 📍 Based in Antwerp, Belgium  
+- 📍 Based in Belgium  
 - 💡 Passionate about solving real-world problems with data  
 - 🧠 Interested in **data science**, **data analytics**, **AI**, **machine learning**, **data engineering**, **deep learning**, and **database systems** projects  
 - 🌱 Currently learning and working with:
