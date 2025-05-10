@@ -18,6 +18,3 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/khakhanhlinh/)  
 
 Feel free to reach out if you're working on something exciting or just want to connect!
-
----
-_“Data is the new oil, but only if it's refined.”_
