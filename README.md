@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Linh Kha
 
-🎓 I'm currently pursuing a **Master's in Digital Business Engineering** at the **University of Antwerp**, majoring in **Data Science**, **Artificial Intelligence**, and **Digital Agility**.
+🎓 I'm currently pursuing a **Master's in Digital Business Engineering** at the **University of Antwerp**, majoring in **Digital Agility, Data Science and Artificial Intelligence**.
 
 ## 🔍 About Me
 
